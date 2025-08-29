@@ -28,4 +28,5 @@ An intelligent document analysis assistant that extracts structured data from re
 ---
 
 ##  Preview
+<img width="603" height="776" alt="Screenshot 2025-08-29 at 3 45 18 AM" src="https://github.com/user-attachments/assets/a15572fb-4487-4fd6-bfca-9e125e2cea29" />
 
